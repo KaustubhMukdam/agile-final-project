@@ -17,7 +17,7 @@ assignees: ''
  ### Acceptance Criteria  
    
  ```gherkin
- Given [some context]
- When [certain action is taken]
- Then [the outcome of action is observed]
+ Given a valid request for a product catalog feature
+ When the user performs the specified action
+ Then the expected result is returned or persisted successfully
  ```
